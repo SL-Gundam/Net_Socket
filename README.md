@@ -1,3 +1,10 @@
+## Fork Information
+
+This repository is a fork of pear/Net_Socket.
+
+The fork contains modifications required by the EmailReporting plugin for MantisBT and is maintained by SL-Gundam.
+
+
 # Net_Socket - Network Socket Interface
 
 [![Build Status](https://travis-ci.org/pear/Net_Socket.svg?branch=master)](https://travis-ci.org/pear/Net_Socket)

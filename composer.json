@@ -14,6 +14,11 @@
             "email": "alec@php.net",
             "name": "Aleksander Machniak",
             "role": "Lead"
+        },
+        {
+            "name": "SL-Gundam",
+            "role": "Maintainer",
+            "homepage": "https://github.com/SL-Gundam"
         }
     ],
     "autoload": {
@@ -21,12 +26,12 @@
             "Net": "./"
         }
     },
-    "description": "More info available on: http://pear.php.net/package/Net_Socket",
+    "description": "Fork of pear/Net_Socket with fixes/improvements for EmailReporting",
     "include-path": [
         "./"
     ],
     "license": "BSD-2-Clause",
-    "name": "pear/net_socket",
+    "name": "sl-gundam/net_socket",
     "support": {
         "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Net_Socket",
         "source": "https://github.com/pear/Net_Socket"
